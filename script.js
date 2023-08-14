@@ -13,7 +13,7 @@ slider.addEventListener("input", function() {
   }
 
   if (sliderValue === 100) {
-    window.location.href = "/plantilla usuario /index.html";
+    window.location.href = "https://deivismillan.github.io/Carlos.Clt/";
   }
 });
 
