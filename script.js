@@ -13,7 +13,7 @@ slider.addEventListener("input", function() {
   }
 
   if (sliderValue === 100) {
-    window.location.href = "https://deivismillan.github.io/Carlos.Clt/";
+    window.location.href = "";
   }
 });
 
@@ -46,5 +46,3 @@ let isNavHiddenVisible = false;
         navHidden.style.backgroundColor = "#f5f9fb"; // Volver al color original (puedes ajustar el color según tu preferencia)
       }
     }
-
-￼Enter
