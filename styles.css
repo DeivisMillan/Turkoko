@@ -320,9 +320,25 @@ p .negro{
   font-weight: bold;
 }
 
+.confirma2 {
+  width: 330px;
+  height: 45px;
+  background: linear-gradient(to right,#CACFD2,
+#A6ACAF );
+  margin-left: 17px;
+  border-radius: 5px;
+  
+}
+
+.confirma2 p{
+  padding-top: 10px;
+  padding-left: 109px;
+ 
+}
+
 
 .confirma{
-  display: grid;
+  display: none;
   grid-template-columns: 4fr  1fr;
   border-radius: 5px;
   margin-bottom: 10px;
